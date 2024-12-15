@@ -1,0 +1,12 @@
+[submodule "extern/data"]
+	path = extern/data
+	url = https://github.com/Jacob-C-Smith/data
+[submodule "extern/tree"]
+	path = extern/tree
+	url = https://github.com/Jacob-C-Smith/tree
+[submodule "extern/tuple"]
+	path = extern/tuple
+	url = https://github.com/Jacob-C-Smith/tuple
+[submodule "extern/base64"]
+	path = extern/base64
+	url = https://github.com/Jacob-C-Smith/base64
